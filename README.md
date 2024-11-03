@@ -1,5 +1,5 @@
 
-Cloudflare官网地址：https://www.cloudflare-cn.com/
+Cloudflare官网地址：https://www.cloudflare.com
 
 添加变量
 
